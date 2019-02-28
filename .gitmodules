@@ -1,0 +1,6 @@
+[submodule "Module_1"]
+	path = Module_1
+	url = https://github.com/staylorUI/Module_1.git
+[submodule "Module_2"]
+	path = Module_2
+	url = https://github.com/staylorUI/Module_2.git
